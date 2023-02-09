@@ -1,4 +1,4 @@
-[![MasterHead](https://www.linkedin.com/in/ishita-pandey-81272256/overlay/background-image/)](https://rishavchanda.io)
+[![MasterHead](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjRdki3Cgjkic0fiLL5PEfej_yhMpUKBjzzDoziKkofKPbsfBincsEHO9qH_GIyK8ftEskEfk3-YnKzzomZbD9vC3TocKtpuJS0TZ6E1FkXTVSua4TJ1pMhFQtmys3sZNh0ueU0DtzlmhXFfRWieAXSpfoElNT0-m0A7AC8AArt7StUOc-QtRp-9XZC/s1400/1646030496662%20(1).jpeg)
 <h1 align="center">Hi 👋, I'm Rao Shahzaib</h1>
 <h3 align="center">DevOps Engineer specializing in streamlined CI/CD pipelines and infrastructure automation from Pakistan</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
