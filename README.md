@@ -17,9 +17,9 @@
 
 - 🤝 I’m looking for help with **Openstack**
 
-- 👨‍💻 All of my projects are available at [raoshahziab.tk](raoshahziab.tk)
+- 👨‍💻 All of my projects are available at [raoshahziab.cloud](https://www.raoshahzaib.cloud/)
 
-- 📝 I regularly write articles on [raoshahziab.ml](raoshahziab.ml)
+- 📝 I regularly write articles on [raoshahziab.cloud](https://www.raoshahzaib.cloud/)
 
 - 💬 Ask me about **Linux, Docker, Kubernates, Ansible, Jenkines, Terraform, Facebook Gaming**
 
