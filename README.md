@@ -65,7 +65,6 @@
 
 | Project | Why it matters |
 | ------- | -------------- |
-| [CloudFlare-ImgBed](https://github.com/ShahzaibRao/CloudFlare-ImgBed) | Self-hosted file/image hub on Cloudflare Workers — **live in production** at [storage.raoshahzaib.site](https://storage.raoshahzaib.site) |
 | [DevOpsLabX](https://github.com/ShahzaibRao/DevOpsLabX) | Structured DevOps labs: Linux administration + Kubernetes, built for real learning |
 | [home-labs](https://github.com/ShahzaibRao/home-labs) | My home lab where I test production-grade tooling before recommending it |
 | [terraform-proxmox-vm](https://github.com/ShahzaibRao/terraform-proxmox-vm) | Reusable Terraform module for Proxmox VM provisioning with cloud-init |
